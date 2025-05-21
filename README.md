@@ -39,8 +39,8 @@
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/financemate.git
-cd financemate
+git clone https://github.com/Khushal1432/App.git
+cd app
 npm install
 npx expo start
 
@@ -68,7 +68,7 @@ MIT License
 
 ---
 
-> Created by [Your Name] | Built with React Native + Expo
+> Created by Khushal Arya| Built with React Native + Expo
 
 
 
